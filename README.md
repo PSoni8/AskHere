@@ -11,3 +11,7 @@ Reactjs - Frontend </br>
 Redux - State Management </br>
 Google Firebase - Backend </br>
 Material -UI - icons </br>
+## Installation Guide
+Install node package on your local environment. </br>
+Install redux-react & material-ui icons globally on your local environment. </br>
+run 'npm start' on cloned directory.
